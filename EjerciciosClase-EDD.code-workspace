@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Ejercicios de Clase EDD/EjerciciosClase-EDD"
+		},
+		{
+			"name": "Tarea2-EDD",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
