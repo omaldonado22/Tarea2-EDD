@@ -11,7 +11,7 @@ int main() {
         std::cin >> arr[i];
     }
 
-    // Ordenar los elementos mediante búsqueda exhaustiva
+    // Ordenar los elementos mediante búsqueda exhaustiva ssooo
     bool intercambio = true;
     while (intercambio) {
         intercambio = false;
